@@ -9,7 +9,7 @@
 - Twitter clone nwitter(Nico 과정) <a href="https://github.com/papago2355/Nwitter-V2">Twitter Clone Nwitter</a>
 - Corona Tracker(YT clone) <a href="https://github.com/papago2355/Corona-Tracker-world">Corona Tracker</a>
 - Opengl practice <a href="https://github.com/papago2355/Opengl_playground">Opengl and Webgl</a>
-- 졸업 검사 어플 Sejong - Gateway 제작 <a href="https://github.com/Sejong-Gateway">Gate Way</a>
+- 졸업 검사 어플 Sejong - Gateway 제작 <a href="https://github.com/Sejong-Gateway">Gate Way</a> or <a href="https://play.google.com/store/apps/details?id=jerry.app.gateway&hl=it">
 
 ## 현재 나의 상태(Current State) 💪:
 - React를 이용한 간단한 웹사이트 제작을 할 수 있어요. (Use React library to make a standard webpage)
