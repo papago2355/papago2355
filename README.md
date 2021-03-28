@@ -1,7 +1,9 @@
-# 반가워요 여러분!(Hello Everyone!) 👋🏾 💻
+# 반가워요 여러분!(Hello Everyone!) 👏 💻
 
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+안녕하세요. 저는 현재 세종대학교를 다니고 있는 AI 소프트웨어 개발자(가 되고싶은) LEE JEE WOONG 이라고해요! 
+
+creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
 
 
 ## Find me around the web 🌎:
