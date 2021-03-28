@@ -3,7 +3,12 @@
 
 안녕하세요. 저는 현재 세종대학교를 다니고 있는 AI 소프트웨어 개발자(가 되고싶은) LEE JEE WOONG 이라고해요! 
 
-creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+현재 공부한(혹은 경험해본) 프로젝트는 아래와 같아요.
+
+- Pytorch Deep Learning IBM 과정 <a href="https://github.com/papago2355/Deeplearning_with_pytorch">IBM certificate Pytorch</a>
+- Twitter clone nwitter(Nico 과정) <a href="https://github.com/papago2355/Nwitter-V2">Twitter Clone Nwitter</a>
+- Corona Tracker(YT clone) <a href="https://github.com/papago2355/Corona-Tracker-world">Corona Tracker</a>
+- Opengl practice <a href="https://github.com/papago2355/Opengl_playground">Opengl and Webgl</a>
 
 
 ## Find me around the web 🌎:
