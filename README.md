@@ -22,3 +22,9 @@
 - Tensorflow 2.x 를 이용한 머신러닝 프로젝트 참여 (Use Tensorflow version 2.x to participate in machine learning projects)
 - Django를 활용한 Pytorch와 웹의 연결 (Use Django to make a connection between Pytorch and the application)
 - Computer Graphics 공부를 통한 기초적인 그래픽 지식 습득 (Learn Computer Graphics to get a basic idea about graphics)
+
+## 나의 장점(Things that I am good at) :
+- 밤새는 거 좋아함 (Enjoy working overnight except weekends)
+- 요리를 잘함. 김치찌개 잘 끓임.(Pretty good at cook. Especially good at making Korean kimchi soup)
+- 맥주먹고 이야기하는 것 잘함(Excellent at beer talk almost like a nectar)
+- 또 뭐가 있을까 더 생각 중 edited:2020.03.29 (Thiking about what I am good at)
