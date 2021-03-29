@@ -11,7 +11,7 @@
 - Pytorch Deep Learning IBM 과정 <a href="https://github.com/papago2355/Deeplearning_with_pytorch">IBM certificate Pytorch</a> or <a href="https://coursera.org/share/0eb2d4f97e8404d9efe21e3d590dde69">Certificate Link</a> or <a href="https://coursera.org/share/0eb2d4f97e8404d9efe21e3d590dde69">Keras Certificate Link</a>
 - Twitter clone nwitter(Nico 과정) <a href="https://github.com/papago2355/Nwitter-V2">Twitter Clone Nwitter</a> or <a href="https://nomadcoders.co/nwitter">Twitter Guide Link</a>
 - Corona Tracker(YT clone) <a href="https://github.com/papago2355/Corona-Tracker-world">Corona Tracker</a>
-- 졸업 검사 어플 Sejong - Gateway 제작 <a href="https://github.com/Sejong-Gateway">Gate Way</a> or <a href="https://play.google.com/store/apps/details?id=jerry.app.gateway&hl=it">Playstore link</a>
+- Flutter 기반 졸업 검사 어플 Sejong - Gateway 제작 <a href="https://github.com/Sejong-Gateway">Gate Way</a> or <a href="https://play.google.com/store/apps/details?id=jerry.app.gateway&hl=it">Playstore link</a>
 
 ## 현재 나의 상태(Current State) 💪:
 - React를 이용한 간단한 웹사이트 제작을 할 수 있어요. (Use React library to make a standard webpage)
