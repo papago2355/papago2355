@@ -2,9 +2,10 @@
 
 <img src="https://github.com/papago2355/papago2355/blob/main/KakaoTalk_20210329_201921848.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
-안녕하세요. 저는 현재 세종대학교를 다니고 있는 AI 소프트웨어 개발자(가 되고싶은) LEE JEE WOONG 이라고해요! 
-
+안녕하세요. 저는 현재 AI 소프트웨어 개발자(가 되고싶은) Papago2355 이라고해요!
+(Hello everyone. My name is Papago2355 who is currently wanted to be an Ai software developer.
 현재 공부한(혹은 경험해본) 프로젝트는 아래와 같아요. (Since March 2020)
+(Projects that I Have experienced are listed below)
 
 - Pytorch Deep Learning IBM 과정 <a href="https://github.com/papago2355/Deeplearning_with_pytorch">IBM certificate Pytorch</a>
 - Twitter clone nwitter(Nico 과정) <a href="https://github.com/papago2355/Nwitter-V2">Twitter Clone Nwitter</a>
