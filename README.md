@@ -1,5 +1,6 @@
 # 반가워요 여러분!(Hello Everyone!) 👏 💻
 
+<img src="https://github.com/papago2355/papago2355/blob/main/KakaoTalk_20210329_201921848.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 안녕하세요. 저는 현재 세종대학교를 다니고 있는 AI 소프트웨어 개발자(가 되고싶은) LEE JEE WOONG 이라고해요! 
 
